@@ -1,3 +1,3 @@
 # WebChat
-This is the free web based chating system base code
-use this code you can develop own provate chat system
+This is the free web based chating system, BASE CODE
+Use this code you can develop own private chat system
